@@ -2,6 +2,7 @@
 @import "./data/styles.css";
 
 body {
+	background-color: var(--tertiary-color);
 	margin: 0;
 	font-family: var(--primary-font);
 	-webkit-font-smoothing: antialiased;
